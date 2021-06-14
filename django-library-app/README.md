@@ -1,13 +1,4 @@
 # django-library-app
-
-A tutorial app to explain django dynamic formsets. Blog post can be found [here](https://medium.com/@taranjeet/adding-forms-dynamically-to-a-django-formset-375f1090c2b0)
-
-### Setup
-
-* Clone the project
-
-```
-git clone https://github.com/taranjeet/django-library-app.git
 ```
 
 * Make sure python and virtual environment is installed. Create virtual environment and install packages
